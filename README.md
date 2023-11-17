@@ -1,5 +1,6 @@
-# personal_porfolio
- Personal location for projects
+# Tim Walewangko - Personal porfolio
+ Welcome to my personal Github. I am currently working on filling out this space with several Data Science and Data Analysis projects.  
+ Feel free to email me at timwalewangko@gmail.com.
 
  ## Current projects
  1. Spotify streams analysis
