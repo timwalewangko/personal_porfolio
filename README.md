@@ -7,4 +7,7 @@
  * Binary classification to determine if a song will perform better or worse than average based on song attributes.
 
  2. Towers of Hanoi
- * Simple game that showcases usage of stacks. Created to practice data structures.
+ * Simple game that showcases usage of stacks.
+
+ 3. Blossom Project
+ * Hash map implementation with separate chaining.
