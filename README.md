@@ -3,11 +3,14 @@
  Feel free to email me at timwalewangko@gmail.com.
 
  ## Current projects
- 1. Spotify streams analysis
+ 1. Wildfire analysis
+ * Exercise on kaggle dataset. Created 3 hypotheses and tested visually.
+
+ 2. Spotify streams analysis
  * Binary classification to determine if a song will perform better or worse than average based on song attributes.
 
- 2. Towers of Hanoi
+ 3. Towers of Hanoi
  * Simple game that showcases usage of stacks.
 
- 3. Blossom Project
+ 4. Blossom Project
  * Hash map implementation with separate chaining.
