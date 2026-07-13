@@ -3,6 +3,9 @@
  Feel free to email me at timwalewangko@gmail.com.
 
  ## Current projects
+ 1. Streamlit
+    * Simple demo, showcasing model training / deployment using a pkl file
+
  1. Sudent Performance Analysis
  * Trained SVM and XGBoost models to compare performance. Used best performing model to predict final exam scores from quantitative and qualitative data
  
